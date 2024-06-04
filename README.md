@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<h1>Cookie Cliker Browser</h1>
+<h1>Cookie Clicker Browser</h1>
 <p><b>Play Cookie Clicker v2.048 in browser!</b></p>
 </head>
 
